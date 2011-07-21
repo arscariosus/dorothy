@@ -1,0 +1,6 @@
+--- 
+title: Hello again
+date: 22/07/2011
+
+Just got a problem with this. Seems like the post will break if you don't name the posts correctly. But who cares. This is for hackers.
+

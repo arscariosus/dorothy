@@ -11,6 +11,10 @@ body {
 header, footer, section, article {
 	display: block;
 }
+
+header {
+    text-align: center;
+}
 #content {
 }
 #by {
